@@ -3,3 +3,7 @@ Conversion rate of atleast 12.04% of users, actually switched to new webpage. Si
 into future markets based on data driven analysis.
 Control group, probability of converting 12.04%
 treatment group, probability of converting 11.88%
+Machine LEarning model:
+I used Regression models, main to be logistic regression
+Accuracy to be 88.01%
+I felt more data could be beneficial for key market indicators.
